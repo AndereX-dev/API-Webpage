@@ -1,0 +1,35 @@
+body {
+    background-color:darkslateblue
+  }
+  
+  h1 {
+    color:white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:300%;
+  } 
+  
+  p {
+    background-color:gray;
+    font-family:'Courier New', Courier, monospace
+  }
+
+  h2 {
+    color:steelblue;
+    font-family:'Courier New', Courier, monospace
+  }
+
+  p {
+   background-color: gray;
+   color:white;
+  }
+
+  h3 {
+    color: gray;
+    font-family:'Times New Roman', Times, serif
+  }
+
+  p {
+    font-family:'Courier New', Courier, monospace;
+    color:white
+  }
